@@ -7,6 +7,7 @@ setup(
     name = "comm_bidso",
     version=VERSION,
     author="Bidso Dev",
+    author_email="vibhu.upamanyu@gmail.com",
     description=DESCRIPTION,
     packages=['comm_bidso'],
     install_requires=['PyJWT==2.6.0','djangorestframework==3.14.0','Django==4.1.3']
